@@ -1,0 +1,48 @@
+h1 {
+	color: #666699;
+	font-size: 40px;
+	
+}
+
+
+#year {
+	color: red;
+	font-size: 20px;
+
+}
+
+.wide {
+	width: 100%;
+
+}
+
+body {
+	background-image: url(http://allfree-themes.com/images/steel/steel-03.jpg);
+}
+
+h3 {
+	font-size: 15px;
+}
+
+p, h1, h3 {
+	background: #808080;
+}
+
+.photo {
+	height: 30%;
+	width: 30%
+}
+
+td {
+	border: 1px solid black;
+	
+}
+
+.castphoto {
+	height: 55px;
+	width: 40px;
+}
+
+div {
+	background: #808080;
+}
